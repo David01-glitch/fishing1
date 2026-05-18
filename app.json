@@ -1,0 +1,8 @@
+{
+  "name": "Classic Fishing Tales",
+  "description": "Fishing stories, bait guides, lake adventures, tackle reviews, and relaxing outdoor retirement hobbies.",
+  "repository": "https://github.com/classicfishingtales/site",
+  "keywords": ["fishing", "lake", "outdoor", "react", "vite"],
+  "scripts": { "postdeploy": "npm run build" },
+  "env": { "NODE_ENV": { "value": "production" } }
+}
